@@ -1,0 +1,15 @@
+﻿# .NET
+bin/
+obj/
+*.user
+*.suo
+
+# Node
+node_modules/
+dist/
+.env.local
+
+# VS Code & Windows
+.vscode/
+Thumbs.db
+Desktop.ini
